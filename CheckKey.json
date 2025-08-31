@@ -10,5 +10,11 @@
         "key": "S2V5IEFkbWluIE1vYmxpZSBIZXJvQWdlIDYuMi43",
         "expirydate": "27-5-2035",
         "Allowoffline": false
+    },
+        {
+        "device_id": "ea10ec09b5a0dfce",
+        "key": "kenvinpham_date_30/9/25",
+        "expirydate": "30-9-2025",
+        "Allowoffline": false
     }
 ]
