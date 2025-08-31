@@ -22,5 +22,11 @@
         "key": "thaohi_30/09/25",
         "expirydate": "30-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6c885f2b779177ca",
+        "key": "SksgKfAJmqv723Y5LibZe4fY7haIjKoI",
+        "expirydate": "30-9-2026",
+        "Allowoffline": false
     }
 ]
