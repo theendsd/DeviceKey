@@ -46,6 +46,12 @@
         "key": "sXqYZQDuqz2KD0hLWVhNLwSVaR3Xqwk9",
         "expirydate": "30-9-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cf3fde6049d09836",
+        "key": "F7PtOcaTDNKFLFQkNTFyFGFSKXb4auji",
+        "expirydate": "30-9-2026",
+        "Allowoffline": false
     }
     
 ]
