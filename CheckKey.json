@@ -70,6 +70,12 @@
         "key": "PAqU2nvmgHZwUgxkul3fTiHRPRJ19kPz",
         "expirydate": "30-9-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "69c3ef1175f743d3",
+        "key": "arywe1JQyCWIJdNrNk5ZvmXaWmk4l2cb",
+        "expirydate": "30-9-2026",
+        "Allowoffline": false
     }
     
 ]
