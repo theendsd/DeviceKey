@@ -1,5 +1,6 @@
 [
     {
+        "name":"Quên Lãng",
         "device_id": "cde65cd0a0e47e95",
         "key": "8fR1MqAiy2zAXiAR9LIkcoaYQUC9hina",
         "expirydate": "30-9-2026",
@@ -30,40 +31,46 @@
         "Allowoffline": false
     },
     {
+        "name":"Nguyễn Tuấn Vũ",
         "device_id": "6c885f2b779177ca",
         "key": "SksgKfAJmqv723Y5LibZe4fY7haIjKoI",
         "expirydate": "30-9-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
+        "name":"Tuấn Lương",
         "device_id": "e790678e38dcc7cb",
         "key": "LFZvqayYy2cIR5kWaGLLqu9YXursLDWD",
         "expirydate": "30-9-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
+        "name":"Nhật Minh",
         "device_id": "fb264b68a035583f",
         "key": "sXqYZQDuqz2KD0hLWVhNLwSVaR3Xqwk9",
         "expirydate": "30-9-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
+        "name":"Kenni Phạm",
         "device_id": "cf3fde6049d09836",
         "key": "F7PtOcaTDNKFLFQkNTFyFGFSKXb4auji",
         "expirydate": "30-9-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
+        "name":"Nguyễn Tuấn Vũ",
         "device_id": "6239f93188057080",
         "key": "3DzVuD3QffnkrZHSqNwZwc4KEPUexlbN",
         "expirydate": "30-9-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
+        "name":"Nguyễn Tuấn",
         "device_id": "b448add34fe394cf",
         "key": "gjtDLoMhMdVIJxx0HyiyTaznx5XFsAys",
         "expirydate": "30-9-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "6239f93188057080",
@@ -72,10 +79,11 @@
         "Allowoffline": false
     },
     {
+        "name":"Đặng Trung Thiện",
         "device_id": "69c3ef1175f743d3",
         "key": "arywe1JQyCWIJdNrNk5ZvmXaWmk4l2cb",
         "expirydate": "30-9-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     }
     
 ]
