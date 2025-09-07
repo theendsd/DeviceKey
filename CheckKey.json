@@ -84,6 +84,14 @@
         "key": "arywe1JQyCWIJdNrNk5ZvmXaWmk4l2cb",
         "expirydate": "30-9-2026",
         "Allowoffline": true
+    },
+    
+        {
+        "name":"Văn Khánh",
+        "device_id": "eae77c461508b258",
+        "key": "uLAgao45f5X88ikaVXnNOhEsIAEcx9pw",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
     }
     
 ]
