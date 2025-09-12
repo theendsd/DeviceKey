@@ -1,5 +1,12 @@
 [
     {
+        "name":"Đỗ Hiếu",
+        "device_id": "43c3b64e67407066",
+        "key": "YOrirHU7y3Som2GftI7EdJHzwY7KN0qg",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
         "name":"Lê Thắng",
         "device_id": "6ea5da7fcd79b6c9",
         "key": "grHiTzh16KZYSoSV8gxpkM69KQXurfHP",
