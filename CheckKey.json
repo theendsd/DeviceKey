@@ -1,5 +1,12 @@
 [
     {
+        "name":"Minh Khang",
+        "device_id": "ce5a9b210aea5901",
+        "key": "TFuDpDrQ6HD42JkMtl5XLrXoggfobpDT",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
         "name":"Đỗ Hiếu",
         "device_id": "43c3b64e67407066",
         "key": "YOrirHU7y3Som2GftI7EdJHzwY7KN0qg",
@@ -18,13 +25,14 @@
         "device_id": "cde65cd0a0e47e95",
         "key": "8fR1MqAiy2zAXiAR9LIkcoaYQUC9hina",
         "expirydate": "30-9-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
+        "name":"PQN",
         "device_id": "57e7e475d5ee567c",
         "key": "admin",
         "expirydate": "27-5-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {    
         "name":"PQN",
