@@ -1,5 +1,12 @@
 [
     {
+        "name":"Lý Trung Trực",
+        "device_id": "2c2f3038902d7ede",
+        "key": "kXskqRNRknnKJXCKGcxQjo4uVH7fBu4S",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
         "name":"Minh Khang",
         "device_id": "b55e4b23cbf64dcf",
         "key": "TFuDpDrQ6HD42JkMtl5XLrXoggfobpDT",
