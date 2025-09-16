@@ -1,5 +1,12 @@
 [
     {
+        "name":"Cuong Vu Manh",
+        "device_id": "fed64cfd8c5bc534",
+        "key": "7o2XQ5Vmz2d646FKLS7I3d0mUVZ4V677",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
         "name":"Lý Trung Trực",
         "device_id": "2c2f3038902d7ede",
         "key": "kXskqRNRknnKJXCKGcxQjo4uVH7fBu4S",
