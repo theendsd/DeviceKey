@@ -1,5 +1,12 @@
 [
     {
+        "name":"Đức Trịnh",
+        "device_id": "16c130e353ccdb04",
+        "key": "oSADCDwZSRPqQ8SkhudLVpxl05dDu21z",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
         "name":"Cuong Vu Manh",
         "device_id": "fed64cfd8c5bc534",
         "key": "7o2XQ5Vmz2d646FKLS7I3d0mUVZ4V677",
