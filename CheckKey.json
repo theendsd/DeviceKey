@@ -74,7 +74,7 @@
         "device_id": "9076be2a1cdec407",
         "key": "admin",
         "expirydate": "27-5-2035",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {    
         "name":"PQN",
