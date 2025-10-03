@@ -78,10 +78,10 @@
     },
     {
         "name":"PQN",
-        "device_id": "9076be2a1cdec407",
+        "device_id": "7ccbd96e6a2bf33e",
         "key": "admin",
         "expirydate": "27-5-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {    
         "name":"PQN",
