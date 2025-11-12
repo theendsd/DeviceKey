@@ -1,6 +1,13 @@
 [
         {
         "name":"Quân Nguyễn",
+        "device_id": "24eb76b43504906f",
+        "key": "oxBf3F8uGY",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+        {
+        "name":"Quân Nguyễn",
         "device_id": "916bede09478d32e",
         "key": "HntHuOd8e8",
         "expirydate": "30-9-2027",
