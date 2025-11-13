@@ -1,4 +1,10 @@
-[
+[{
+        "name":"Nhân Bánh Bao",
+        "device_id": "200131aff0f21f12",
+        "key": "T7MI30vgos",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
         {
         "name":"Coffe Sữa",
         "device_id": "24eb76b43504906f",
