@@ -134,7 +134,280 @@
     },
     {
         "name":"Đức Trịnh",
-        "device_id": "16c130e353ccdb04",
+        "device_id": "[
+        {
+        "name":"Luan Vo",
+        "device_id": "54dbc0ecd4099cbd",
+        "key": "3IwZL9LzBY",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+        {
+        "name":"Nguyễn Tuấn",
+        "device_id": "007fc17a957ea889",
+        "key": "jwzKDpSltU",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+        {
+        "name":"Phạm Thiên",
+        "device_id": "t9m1f5s0d0h6n8m1",
+        "key": "r2Ikk1NXOs",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+        {
+        "name":"Nguyễn Vĩ",
+        "device_id": "c8e6de62a69d3959",
+        "key": "CVBlT9eTaJ",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+        {
+        "name":"Nhân Bánh Bao",
+        "device_id": "200131aff0f21f12",
+        "key": "T7MI30vgos",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+        {
+        "name":"Coffe Sữa",
+        "device_id": "24eb76b43504906f",
+        "key": "oxBf3F8uGY",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+        {
+        "name":"Quân Nguyễn",
+        "device_id": "916bede09478d32e",
+        "key": "HntHuOd8e8",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+        {
+        "name":"Pham Thang",
+        "device_id": "721d7d0ae05b4cef",
+        "key": "6abCZoBhyi",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+        {
+        "name":"Hoàng Nguyễn",
+        "device_id": "e69ee7764febeb13",
+        "key": "kNZRyfej9A",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+        {
+        "name":"Vũ Tuấn Đào",
+        "device_id": "2188dc91af04d90d",
+        "key": "LVx6cjJ6pO",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+        {
+        "name":"Chien Ngoc",
+        "device_id": "3560b22e7ba80e1d",
+        "key": "xti1TSgfaQ33C76ErAMUMnFAGTIfllqL",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+        {
+        "name":"Dũng Kevil",
+        "device_id": "184c775b08bb91cd",
+        "key": "NSR1jJqy5PF1dv4TKB2L1TxBuf5nqBHs",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+        {
+        "name":"Hoàn Tú",
+        "device_id": "b69f8decfe1dcd0b",
+        "key": "cTuzMFgwudPd7IjBUf3ik7ik9bVmy19i",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+        {
+        "name":"Minh Sương",
+        "device_id": "0e6de27757f94d36",
+        "key": "J0wwTr8kcVHI8DQjOKS1yA5sADlwxbib",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+        {
+        "name":"Đậu Đỏ",
+        "device_id": "d1022d53b18ad48f",
+        "key": "i20ipdrx5u3F8WXJ6uoI4FvmJOdYm37V",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+        {
+        "name":"Thành Đạt Red",
+        "device_id": "90b675997ed5ccd8",
+        "key": "3N3PwQAgLVkB3idz2gCk7RYFNkSP8gBD",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+        {
+        "name":"Thành Đạt Giả Lập",
+        "device_id": "c0b88f9236d4a836",
+        "key": "grHiTzh16KZYSoSV8gxpkM69KQXurfHP",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+        {
+        "name":"Thành Đạt Mobile",
+        "device_id": "96c228a1807da4e6",
+        "key": "N6fgMOUwFmH5nSJ6T2JVJ1fnYtGQqI3k",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+        {
+        "name":"Thiện Ơi",
+        "device_id": "96c228a1807da4e6",
+        "key": "2ls1XoOnqRnNTikq9BNjEd88gSkj9BtT",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "name":"Đức Trịnh",
+        "device_id": "f942b7df39a566a2",
+        "key": "oSADCDwZSRPqQ8SkhudLVpxl05dDu21z",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "name":"Cuong Vu Manh",
+        "device_id": "f942b7df39a566a2",
+        "key": "XQJFdcmCWA7KTrb1WUlKwlQ4",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "name":"Lý Trung Trực",
+        "device_id": "2c2f3038902d7ede",
+        "key": "kXskqRNRknnKJXCKGcxQjo4uVH7fBu4S",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "name":"Minh Khang",
+        "device_id": "b55e4b23cbf64dcf",
+        "key": "TFuDpDrQ6HD42JkMtl5XLrXoggfobpDT",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "name":"Đỗ Hiếu",
+        "device_id": "aecc96dd9250a394",
+        "key": "YOrirHU7y3Som2GftI7EdJHzwY7KN0qg",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "name":"Lê Thắng",
+        "device_id": "61dddc7157448670",
+        "key": "grHiTzh16KZYSoSV8gxpkM69KQXurfHP",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "name":"Quên Lãng",
+        "device_id": "6193c549c449f217",
+        "key": "8fR1MqAiy2zAXiAR9LIkcoaYQUC9hina",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "name":"PQN",
+        "device_id": "fc47b98ba43c9ecb",
+        "key": "admin",
+        "expirydate": "27-5-2035",
+        "Allowoffline": true
+    },
+    {    
+        "name":"PQN",
+        "device_id": "d71caead2b7148af",
+        "key": "adminphone",
+        "expirydate": "27-5-2035",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dd52c47c9b4c73b3",
+        "key": "BzZELu1lXNMwdXmbm4FxRkkah5iUnZv6",
+        "expirydate": "30-9-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Q4E0P7B3P2Q5D5V9",
+        "key": "250880",
+        "expirydate": "30-9-2025",
+        "Allowoffline": false
+    },
+    {
+        "name":"Nguyễn Tuấn Vũ",
+        "device_id": "6c885f2b779177ca",
+        "key": "SksgKfAJmqv723Y5LibZe4fY7haIjKoI",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "name":"Tuấn Lương",
+        "device_id": "e790678e38dcc7cb",
+        "key": "LFZvqayYy2cIR5kWaGLLqu9YXursLDWD",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "name":"Nhật Minh",
+        "device_id": "fb264b68a035583f",
+        "key": "sXqYZQDuqz2KD0hLWVhNLwSVaR3Xqwk9",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "name":"Kenni Phạm",
+        "device_id": "cf3fde6049d09836",
+        "key": "F7PtOcaTDNKFLFQkNTFyFGFSKXb4auji",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "name":"Nguyễn Tuấn Vũ",
+        "device_id": "6239f93188057080",
+        "key": "3DzVuD3QffnkrZHSqNwZwc4KEPUexlbN",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "name":"Nguyễn Tuấn",
+        "device_id": "c71bdf040defea2a",
+        "key": "gjtDLoMhMdVIJxx0HyiyTaznx5XFsAys",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "6239f93188057080",
+        "key": "PAqU2nvmgHZwUgxkul3fTiHRPRJ19kPz",
+        "expirydate": "30-9-2026",
+        "Allowoffline": false
+    },
+    {
+        "name":"Đặng Trung Thiện",
+        "device_id": "69c3ef1175f743d3",
+        "key": "arywe1JQyCWIJdNrNk5ZvmXaWmk4l2cb",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    
+        {
+        "name":"Văn Khánh",
+        "device_id": "eae77c461508b258",
+        "key": "uLAgao45f5X88ikaVXnNOhEsIAEcx9pw",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    }
+    
+]",
         "key": "oSADCDwZSRPqQ8SkhudLVpxl05dDu21z",
         "expirydate": "30-9-2026",
         "Allowoffline": true
