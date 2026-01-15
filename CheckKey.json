@@ -132,10 +132,14 @@
         "expirydate": "30-9-2026",
         "Allowoffline": true
     },
-    {
-        "name":"Đức Trịnh",
-        "device_id": "[
         {
+        "name":"Đức Trịnh",
+        "device_id": "f942b7df39a566a2",
+        "key": "{jCd*>7DajiC*@@M",
+        "expirydate": "30-9-2026",
+        "Allowoffline": true
+    },
+    {
         "name":"Luan Vo",
         "device_id": "54dbc0ecd4099cbd",
         "key": "3IwZL9LzBY",
