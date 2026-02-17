@@ -1,5 +1,12 @@
 [
         {
+        "name":"Giang Trường",
+        "device_id": "218a5aa275bced3f",
+        "key": "5ZpV9uO[V8Ee]fuN",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+        {
         "name":"Duy CoCa",
         "device_id": "bd78a085679d03af",
         "key": "OUmXuvUIh*_|B(Tc",
